@@ -1,0 +1,13 @@
+# Directories
+build
+venv
+.idea
+__pycache__
+.DS_Store
+dist
+_build
+*.egg-info
+
+# Files
+*.db
+MANIFEST
